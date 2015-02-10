@@ -1,0 +1,1 @@
+lib/**/*.rb lib/mongo/**/*.rb lib/bson/**/*.rb
